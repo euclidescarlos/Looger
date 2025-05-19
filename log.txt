@@ -1,0 +1,21 @@
+Iniciando monitoramento...
+[22:15:52] Processo: Discord.exe | CPU: 0.0% | RAM: 549.9MB | Status: running | Tempo em execução: 9809s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:15:58] Processo: Discord.exe | CPU: 0.0% | RAM: 550.4MB | Status: running | Tempo em execução: 9816s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:05] Processo: Discord.exe | CPU: 0.3% | RAM: 549.3MB | Status: running | Tempo em execução: 9822s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:11] Processo: Discord.exe | CPU: 0.0% | RAM: 549.1MB | Status: running | Tempo em execução: 9828s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:17] Processo: Discord.exe | CPU: 6.8% | RAM: 551.2MB | Status: running | Tempo em execução: 9834s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:23] Processo: Discord.exe | CPU: 0.0% | RAM: 549.7MB | Status: running | Tempo em execução: 9840s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:29] Processo: Discord.exe | CPU: 0.5% | RAM: 549.4MB | Status: running | Tempo em execução: 9846s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:36] Processo: Discord.exe | CPU: 0.7% | RAM: 550.0MB | Status: running | Tempo em execução: 9853s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:42] Processo: Discord.exe | CPU: 0.3% | RAM: 549.8MB | Status: running | Tempo em execução: 9859s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
+[22:16:48] Processo: Discord.exe | CPU: 6.4% | RAM: 550.5MB | Status: running | Tempo em execução: 9865s
+  GPU: 0% | RAM GPU: 87MiB / 4096MiB | Temp: 58°C
